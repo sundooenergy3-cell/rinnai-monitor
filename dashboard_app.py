@@ -217,7 +217,7 @@ st.markdown("""
     .top-btn-wrap {
         position: fixed;
         right: 24px;
-        bottom: 24px;
+        bottom: 54px;
         z-index: 9999;
     }
 
